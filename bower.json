@@ -1,0 +1,22 @@
+{
+  "name": "Chilaquiles",
+  "homepage": "",
+  "authors": [
+    "HorusBlack <horus.black22@gmail.com>"
+  ],
+  "description": "Practica con Boostrap",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
